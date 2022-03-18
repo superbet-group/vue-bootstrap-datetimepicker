@@ -35,7 +35,7 @@
     "prepublishOnly": "npm run test && npm run build"
   },
   "dependencies": {
-    "eonasdan-bootstrap-datetimepicker": "git://github.com/superbet-group/tempus-dominus#63c1f6e98eb25bb8cc2d91bd41c5cbce6abd16ea"
+    "eonasdan-bootstrap-datetimepicker": "https://github.com/superbet-group/tempus-dominus#63c1f6e98eb25bb8cc2d91bd41c5cbce6abd16ea"
   },
   "devDependencies": {
     "@vue/test-utils": "^1.0.0-beta.16",
